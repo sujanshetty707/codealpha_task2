@@ -15,6 +15,18 @@
     {
       "question": "How do I contact support?",
       "answer": "You can contact support by emailing support@example.com or using the live chat option on our website."
+    },
+    {
+      "question": "How long does shipping take?",
+      "answer": "Standard shipping usually takes 3 to 5 business days, while expedited options may arrive sooner."
+    },
+    {
+      "question": "Can I cancel my subscription?",
+      "answer": "Yes, you can cancel your subscription at any time from the Billing section in your account settings."
+    },
+    {
+      "question": "Do you offer student discounts?",
+      "answer": "Yes, eligible students may receive a discount by verifying their student status through our support team."
     }
   ]
 }
