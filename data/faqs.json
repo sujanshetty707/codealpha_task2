@@ -1,0 +1,20 @@
+{
+  "faqs": [
+    {
+      "question": "How do I reset my password?",
+      "answer": "You can reset your password by clicking the 'Forgot Password' link on the login page and following the email instructions."
+    },
+    {
+      "question": "How can I update my billing address?",
+      "answer": "Open your account settings, select Billing, and update your address in the profile section."
+    },
+    {
+      "question": "What is your refund policy?",
+      "answer": "Refunds are available within 30 days of purchase for unused products, subject to our refund policy terms."
+    },
+    {
+      "question": "How do I contact support?",
+      "answer": "You can contact support by emailing support@example.com or using the live chat option on our website."
+    }
+  ]
+}
